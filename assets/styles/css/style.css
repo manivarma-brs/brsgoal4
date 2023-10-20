@@ -121,16 +121,16 @@ ul li {
 
 header {
   display: grid;
-  grid-template-columns: 1.3fr 1.5fr 1fr 1fr;
+  grid-template-columns: 1.4fr 1.6fr 1fr 1fr;
   grid-gap: 20px;
-  border-bottom: 1px dashed #ddd;
+  border-bottom: 2px dashed #ddd;
  
   grid-area: header; /* header spans full columns */ 
 }
 
 header p i {
   vertical-align: middle;
-	padding-right: 10px;
+	padding-right: 1px;
 }
 
 aside {
